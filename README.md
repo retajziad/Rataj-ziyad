@@ -13,14 +13,6 @@ My work spans user research, interaction design, prototyping, design systems, an
 - **Technology:** software engineering fundamentals, HTML, CSS, JavaScript, and foundational SwiftUI learning
 - **Exploration:** creative technology, sustainable experiences, and human-centered innovation
 
-### Selected work and learning
-
-This GitHub account includes early academic work alongside design documentation. It is being curated to distinguish source code, prototypes, and university coursework accurately.
-
-- [Workout Application — UI Design](https://github.com/retajziad/Project-WORKOUT-APPLICATION) — university interface-design deliverables
-- [E-commerce Application — Requirements Engineering](https://github.com/retajziad/Project-E-commerce-Application-) — academic requirements documentation
-- [E-commerce Website — Project Management](https://github.com/retajziad/Project-E-commerce-Website-) — academic project documentation and prototype
-- [Student Grade](https://github.com/retajziad/Student-Grade/tree/Tests) — Java and JUnit practice on the `Tests` branch
 
 ### How I approach products
 
